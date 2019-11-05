@@ -1,8 +1,5 @@
 
 	window.onload = function() {
-		do{
-			var x = prompt("Please enter your name", "Harry Potter");
-		}while(x=="password"){
 	    var anchors = document.getElementsByTagName('a');
 	    for(var i = 0; i < 4; i++) {
 	        var anchor = anchors[i];
